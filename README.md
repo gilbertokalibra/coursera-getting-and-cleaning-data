@@ -37,5 +37,5 @@ We should create one R script called run_analysis.R that does the following.
 2. Put run_analysis.R in the parent folder of "UCI HAR Dataset", then set it as your working directory using setwd() function in RStudio.
 3. Run source("run_analysis.R"), then it will generate a new file Result.txt in your working directory.
 
-Dependencies
+Dependencies:
 - Packages reshape2 and data.table.
