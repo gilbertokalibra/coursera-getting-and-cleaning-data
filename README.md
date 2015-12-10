@@ -3,7 +3,9 @@ The purpose of this project is to demonstrate our ability to collect, work with,
 
 #Files in this repo
 README.md -- Apresentation this project and assignments.
+
 CodeBook.md -- a code book that describes the variables, the data, and any transformations performed to clean up the data.
+
 run_analysis.R -- Script R code
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
