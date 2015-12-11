@@ -4,7 +4,7 @@ The purpose of this project is to demonstrate our ability to collect, work with,
 #Involved Files
 - README.md -- Apresentation this project and assignments.
 
-- CodeBook.md -- a code book that describes the variables, the data, and any transformations performed to clean up the data.
+- CodeBook.md -- Describes the variables, the data, and any transformations performed to clean up the data.
 
 - run_analysis.R -- Script R code
 
