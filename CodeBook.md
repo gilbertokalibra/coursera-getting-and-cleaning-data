@@ -44,8 +44,7 @@ The following files are available for the train and test data. Their description
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-Notes: 
-======
-- Features are normalized and bounded within [-1,1].
-- Each feature vector is a row on the text file.
+Code Variables into the run_analysis.R R script:
+===============================================
+- old_wd: keep safe user's Working Directory while the run_analysis.R is working. After that,  the user's Working Directory will return.
 
