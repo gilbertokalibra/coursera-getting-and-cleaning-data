@@ -35,6 +35,7 @@ We should create one R script called run_analysis.R that does the following.
 
 1. You have to download a file called run_analysis.R and put it into your working directory.
 2. Load run_analysis.R into R Studio. For that you need just type source('./run_analysis.R'). That does itself the following.
-2.1. Download the data source and put into a folder on your working directory.
-2.2. Unzip the data source and Create a "UCI HAR Dataset" folder.
+  2.1. Download the data source and put into a folder on your working directory.
+  2.2. Unzip the data source and Create a "UCI HAR Dataset" folder.
+
 3. It will generate a new, organized and tidy file called Result.txt into "UCI HAR Dataset" folder.
