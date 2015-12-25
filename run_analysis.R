@@ -38,12 +38,12 @@ if(file.exists(prj_wd)) {
 }
 
 # Load the (test and train) files that contains datas, subjects and labels
-test_labels <- read.table("UCI HAR Dataset/test/y_test.txt", col.names = "label")
-test_subjects <- read.table("UCI HAR Dataset/test/subject_test.txt", col.names = "subject")
-test_data <- read.table("UCI HAR Dataset/test/X_test.txt")
-train_labels <- read.table("UCI HAR Dataset/train/y_train.txt", col.names = "label")
-train_subjects <- read.table("UCI HAR Dataset/train/subject_train.txt", col.names ="subject")
-train_data <- read.table("UCI HAR Dataset/train/X_train.txt")
+    test_labels <- read.table("UCI HAR Dataset/test/y_test.txt", col.names = "label")
+    test_subjects <- read.table("UCI HAR Dataset/test/subject_test.txt", col.names = "subject")
+    test_data <- read.table("UCI HAR Dataset/test/X_test.txt")
+    train_labels <- read.table("UCI HAR Dataset/train/y_train.txt", col.names = "label")
+    train_subjects <- read.table("UCI HAR Dataset/train/subject_train.txt", col.names ="subject")
+    train_data <- read.table("UCI HAR Dataset/train/X_train.txt")
 
 # Load the features file, witch contains a complete list of variables of each 
 # feature.
