@@ -37,5 +37,5 @@ We should create one R script called run_analysis.R that does the following.
 2. Load run_analysis.R into R Studio. For that you need just type source('./run_analysis.R'). That does itself the following.
   - Create a "Project UCI HAR Dataset" folder.
   - Download the data source and put it into "Project UCI HAR Dataset" folder.
-  - Unzip the data source and Create a "UCI HAR Dataset" folder, which contain all files for our job. You can find more information about them in Code Book file.
+  - Unzip the data source and Create a "UCI HAR Dataset" folder, which contain all files for our job. You can find more information about them in CodeBook.md file.
 3. Finally, it will generate a new, organized and tidy file called Result.txt into "Project UCI HAR Dataset" folder.
